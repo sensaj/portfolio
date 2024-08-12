@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "institution": "Institute of Finance Management",
+    "education": "Bachelor of Science in Information Technology",
+    "award": "System Developer",
+    "start": "Novemeber 2018",
+    "end": "August 2021"
+  },
+  {
+    "id": 2,
+    "institution": "Moshi Technical High School",
+    "education": "A-level Education",
+    "award": "Cerificate of Advanced Education Examination",
+    "start": "July 2016",
+    "end": "May 2018"
+  },
+  {
+    "id": 3,
+    "institution": "Chem-bande Secondary School",
+    "education": "O-level Education",
+    "award": "Cerificate of Secondary Education Examination",
+    "start": "January 2012",
+    "end": "November 2015"
+  },
+  {
+    "id": 4,
+    "institution": "Mbezi Beach Primary School",
+    "education": "Primary Education",
+    "award": "Cerificate of Primary Education Examinations",
+    "start": "January 2006",
+    "end": "November 2011"
+  }
+]

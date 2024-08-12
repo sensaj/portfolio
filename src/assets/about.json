@@ -1,0 +1,30 @@
+{
+  "firstName": "Jafar",
+  "middleName": "Salumu",
+  "lastName": "Ali",
+  "address": "Kigamboni",
+  "region": "Dar es salaam",
+  "country": "Tanzania",
+  "phone": "(255) 766-094682",
+  "email": "jafarsalum07@gmail.com",
+  "profileUrl": "../assets/developer.jpg",
+  "biography": "Hello! I am a web and mobile developer with a passion for creating innovative and user-friendly digital experiences. With expertise in both front-end and back-end development, I specialize in crafting responsive websites and intuitive mobile applications. I thrive on tackling complex challenges and transforming ideas into functional, visually appealing, and high-performance solutions. Through a combination of technical skills, creativity, and attention to detail, I strive to deliver seamless and engaging digital solutions that meet the needs of clients and users alike.",
+  "socials": [
+    {
+      "icon": "fab fa-twitter",
+      "url": "https://twitter.com/jafarsalum07?s=08"
+    },
+    {
+      "icon": "fab fa-whatsapp",
+      "url": "https://wa.me/+255766094682"
+    },
+    {
+      "icon": "fab fa-instagram",
+      "url": "https://instagram.com/jafarsalum07?igshid=MzNlNGNkZWQ4Mg=="
+    },
+    {
+      "icon": "fab fa-linkedin-in",
+      "url": "https://www.linkedin.com/in/jafar-salum-94aaa7186"
+    }
+  ]
+}

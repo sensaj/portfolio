@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "HTML", "icon": "fab fa-html5" },
+  { "id": 2, "name": "CSS", "icon": "fab fa-css3-alt" },
+  { "id": 3, "name": "Bootstrap", "icon": "fa-brands fa-bootstrap" },
+  { "id": 4, "name": "Javascript", "icon": "fab fa-js-square" },
+  { "id": 5, "name": "PHP", "icon": "fa-brands fa-php" },
+  { "id": 6, "name": "Python", "icon": "fa-brands fa-python" },
+  { "id": 7, "name": "Flutter", "icon": "fa-solid fa-f" },
+  { "id": 8, "name": "Aws", "icon": "fa-brands fa-aws" },
+  { "id": 9, "name": "Kotlin", "icon": "fa-brands fa-android" },
+  { "id": 10, "name": "React Js", "icon": "fa-brands fa-react" }
+]

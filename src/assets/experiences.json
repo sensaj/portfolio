@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "Software Developer",
+    "company": "Vodacom Tanzania",
+    "start": "October 2023",
+    "end": "Present",
+    "description": "I participated in development of mobile apps for both Agents and customers when working with a Miliki Simu project. This project involves providing smartphone loan to Vodacom customers according to the scoring which is result of their usage of Vodacom services such as Mpesa.",
+    "links": []
+  },
+  {
+    "id": 2,
+    "title": "Unimentor Software Developer",
+    "company": "My own project",
+    "start": "June 2021",
+    "end": "Present",
+    "description": "This software helps form six graduates to get all neccessary informations required for them to make choices for their higher education. It gives them university informations such as locations, fee structure and courses.It also gives them suggestions on which courses they can get at what university depending on their subject combination and grades.It also allow them to ask questions and get answered by different people. I'm currently working on making answers with the help of an AI.",
+    "links": [
+      {
+        "name": "Unimentor website",
+        "url": "https://unimentor.or.tz/",
+        "isMobile": false
+      },
+      {
+        "name": "Unimentor app",
+        "url": "https://play.google.com/store/apps/details?id=com.sensaj.unimentor",
+        "isMobile": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Software Engineer",
+    "company": "GroupRTech LTD",
+    "start": "December 2022",
+    "end": "April 2023",
+    "description": "Here i get involved with the development of both mobile applications and web applications which allowed student to access the university materials such as books, notes etc. through the mobile app. Also i worked to create a web dashboard for the university tutors to provide those education materials.",
+    "links": []
+  },
+  {
+    "id": 4,
+    "title": "Mobile Developer",
+    "company": "Ujuzinet Company",
+    "start": "July 2022",
+    "end": "December 2022",
+    "description": "I worked here as a mobile developer where i developed different apps but the one that a company choose to go with are two of them which are Ema Retail a POS mobile app which can be used by retail businesses for their business management, also i developed Mazao hub a mobile app which helps farmers and agronomists to track down farming activities through out the season.",
+    "links": [
+      {
+        "name": "Mazao Hub mobile app",
+        "url": "https://play.google.com/store/apps/details?id=com.ujuzinet.mazaohub",
+        "isMobile": true
+      },
+      {
+        "name": " EMA Retail mobile app",
+        "url": "https://play.google.com/store/apps/details?id=com.ema.retail",
+        "isMobile": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Software Engineer",
+    "company": "GPITG LTD",
+    "start": "November 2021",
+    "end": "June 2022",
+    "description": "I contributed to the design, implementation, and optimization of a software called Electronic hospital management system(eHMS). The sosftware involves the management of all hospital departments such as OPD, IPD, pharmacy and laboratory.",
+    "links": [
+      {
+        "name": "eHMS website",
+        "url": "https://gpitg.co.tz/ehms/",
+        "isMobile": false
+      }
+    ]
+  }
+]
