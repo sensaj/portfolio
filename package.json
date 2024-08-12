@@ -3,11 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sensaj.github.io/portfolio/",
   "scripts": {
     "dev": "vite",
-    "gh-pages-build": "vite build",
-    "gh-pages-deploy": "gh-pages -d dist",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
