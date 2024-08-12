@@ -7,6 +7,7 @@ import SkillsSection from "./SkillsSection";
 export default function PageContent() {
   return (
     <div className={`container-fluid`}>
+      <h1>REACT</h1>
       <AboutSection />
       <hr className={`m-0`} />
       <ExperienceSection />
