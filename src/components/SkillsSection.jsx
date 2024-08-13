@@ -1,7 +1,7 @@
 import tools from "../assets/tools.json";
 import workflows from "../assets/workflows.json";
 import ToolContainer from "./ToolContainer";
-import WorkflowContainer from "./WorkflowCOntainer";
+import WorkflowContainer from "./WorkflowContainer";
 export default function SkillsSection() {
   return (
     <section className={`resume-section`} id={`skills`}>
